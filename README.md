@@ -2,7 +2,7 @@
 ---
 **`Estudante De Analise e Desenvolvimento De sistemas`**
 
-Me chamo Leonardo de Souza, tenho 19 anos e sou natural de Araçatuba/SP, estou cursando atualmente Analise e Desenvolvimento de Sistema pela instituição Unip. Sou apaixonado por tecnologia e sempre estou procurando aprender mais.
+My name is Leonardo de Souza, I'm 19 years old, and I'm from Araçatuba, São Paulo. I'm currently studying Systems Analysis and Development at Unip. I'm passionate about technology and always looking to learn more.
 
 ---
 
