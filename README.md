@@ -58,5 +58,5 @@ My name is Leonardo de Souza, I'm 19 years old, and I'm from Araçatuba, São Pa
     height="200" 
     style="paddin-right: 10px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leooozzz&theme=dark&custom_title=TECNOLOGIAS&" 
-/>
+/> 
 </p>
