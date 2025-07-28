@@ -1,12 +1,12 @@
 # 👩‍💻 Leonardo de souza
 ---
-**`Estudante De Analise e Desenvolvimento De sistemas`**
+**`Systems Analysis and Development Student`**
 
 My name is Leonardo de Souza, I'm 19 years old, and I'm from Araçatuba, São Paulo. I'm currently studying Systems Analysis and Development at Unip. I'm passionate about technology and always looking to learn more.
 
 ---
 
-### 🤖 Linguagens e tecnologias
+### 🤖 Languages and technologies
 <img 
     align="left" 
     alt="HTML"
@@ -42,7 +42,7 @@ My name is Leonardo de Souza, I'm 19 years old, and I'm from Araçatuba, São Pa
 <br/>
 <br/>
 
-### 🤖 Estatísticas
+### 🤖 Statistics
 
 <p>
  <img 
