@@ -94,6 +94,37 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados e de
 
 ---
 
+### 🧰 Ferramentas
+<img 
+    align="left" 
+    alt="Windows 10"
+    title="Windows 10"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Linux"
+    title="Linux"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
+<img 
+    align="left" 
+    alt="VS Code"
+    title="Visual Studio Code"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+<br/>
+<br/>
+<br/>
+
+---
+
 ### 📊 Estatísticas do GitHub
 <p>
  <img 
@@ -110,4 +141,3 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados e de
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leooozzz&theme=dark&custom_title=Linguagens%20Mais%20Usadas" 
 /> 
 </p>
-
