@@ -51,11 +51,11 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados e de
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="TailwindCSS"
+    title="TailwindCSS"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <br/>
 <br/>
