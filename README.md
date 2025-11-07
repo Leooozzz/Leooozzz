@@ -88,9 +88,18 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados e de
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Node.js"
+    title="Node.js" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
 <br/>
 <br/>
 <br/>
+
 
 ---
 
