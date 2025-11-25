@@ -23,6 +23,7 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados e de
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-6F32BE?style=for-the-badge&logo=zod&logoColor=white)
 
 ---
 
