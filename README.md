@@ -1,4 +1,4 @@
-# 👨‍💻 Leonardo de Souza
+#  Leonardo de Souza
 
 **`Systems Analysis and Development Student`**
 
@@ -47,3 +47,5 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados e de
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Leooozzz&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leooozzz&layout=compact&theme=tokyonight" />
 </p>
+
+
