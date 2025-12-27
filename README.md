@@ -43,9 +43,15 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados e de
 
 ---
 ### 📊 Estatísticas do GitHub
-<p align="start">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Leooozzz&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leooozzz&layout=compact&theme=tokyonight" />
+<p align="">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=Leooozzz&show_icons=true&theme=github_dark"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Leooozzz&layout=compact&theme=github_dark"
+    height="160"
+  />
 </p>
 
 
