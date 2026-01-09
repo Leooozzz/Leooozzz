@@ -33,7 +33,6 @@ Sou apaixonado por tecnologia e desenvolvimento web, com foco em **front-end mod
 ## Studying
 
 [![PYTHON](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)]()
-[![DJANGO](https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=white)]()
 [![N8N](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)]()
 
 ## Tools & OS
