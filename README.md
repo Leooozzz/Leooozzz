@@ -38,7 +38,7 @@ Sou apaixonado por tecnologia e desenvolvimento web, com foco em **front-end mod
 
 ## Tools & OS
 
-[![LINUX MINT](https://img.shields.io/badge/linux_mint-000000?style=for-the-badge&logo=linux&logoColor=white)]()
+[![UBUNTO](https://img.shields.io/badge/Ubunto-000000?style=for-the-badge&logo=linux&logoColor=white)]()
 [![WINDOWS](https://img.shields.io/badge/windows_10-000000?style=for-the-badge&logo=windows&logoColor=white)]()
 [![VSCODE](https://img.shields.io/badge/vs_code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
 
