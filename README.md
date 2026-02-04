@@ -32,14 +32,12 @@ Sou apaixonado por tecnologia e desenvolvimento web, com foco em **front-end mod
 
 ## Studying
 
-[![N8N](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)]()
 [![PHP](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=white)]()
 [![laravel](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)]()
 
 ## Tools & OS
 
-[![UBUNTO](https://img.shields.io/badge/Ubunto-000000?style=for-the-badge&logo=linux&logoColor=white)]()
-[![WINDOWS](https://img.shields.io/badge/windows_10-000000?style=for-the-badge&logo=windows&logoColor=white)]()
+[![LINUX](https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white)]()
 [![VSCODE](https://img.shields.io/badge/vs_code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
 
 ## Statistics
