@@ -27,6 +27,8 @@ Sou apaixonado por tecnologia e desenvolvimento web, com foco em **front-end mod
 [![POSTGRESQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![ZOD](https://img.shields.io/badge/zod-000000?style=for-the-badge&logo=zod&logoColor=white)]()
 [![SHADCN/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)]()
+[![DOCKER](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)]()
+[![DRIZZLE](https://img.shields.io/badge/drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=white)]()
 [![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)]()
 [![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)]()
 
