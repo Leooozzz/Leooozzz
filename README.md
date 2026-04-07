@@ -1,50 +1,49 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Leooozzz&label=PROFILE%20VIEWS&color=000000&labelColor=000000&style=for-the-badge" alt="Profile Views"/>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=000&text=LEONARDO&fontColor=fff&desc=FULL%20STACK%20DEVELOPMENT&descSize=14&animation=twinkling"/>
-</div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=Leonardo%20Souza&fontSize=50&animation=fadeIn&fontAlignY=40&fontColor=ffffff">
+</p>
 
-## About me
 
-Olá! Meu nome é **Leonardo de Souza**, tenho **19 anos** e sou de **Araçatuba, São Paulo**.  
-Atualmente curso **Análise e Desenvolvimento de Sistemas** na **UNIP**.
 
-Sou apaixonado por tecnologia e desenvolvimento web, com foco em **front-end moderno**, boas práticas de código, **interfaces responsivas**, integração com APIs e aprendizado contínuo.
+##  About me
+
+Atualmente estagiando como desenvolvedor full stack 
 
 ## Technologies
 
-[![HTML](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white)]()
-[![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()
-[![TYPESCRIPT](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![REACT](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)]()
-[![NEXT.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
-[![TAILWIND CSS](https://img.shields.io/badge/tailwind_css-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
-[![AXIOS](https://img.shields.io/badge/axios-000000?style=for-the-badge&logo=axios&logoColor=white)]()
-[![NODE.JS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)]()
-[![EXPRESS](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)]()
-[![PRISMA](https://img.shields.io/badge/prisma-000000?style=for-the-badge&logo=prisma&logoColor=white)]()
-[![POSTGRESQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![ZOD](https://img.shields.io/badge/zod-000000?style=for-the-badge&logo=zod&logoColor=white)]()
-[![SHADCN/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)]()
-[![DOCKER](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)]()
-[![DRIZZLE](https://img.shields.io/badge/drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=white)]()
-[![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)]()
-[![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)]()
+![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/docker--compose-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Drizzle](https://img.shields.io/badge/drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=white)
+![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
 
-## Studying
 
-[![PHP](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=white)]()
-[![laravel](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)]()
 
-## Tools & OS
+##  Studying
 
-[![LINUX](https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white)]()
-[![VSCODE](https://img.shields.io/badge/vs_code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
+![PHP](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
+![Socket.io](https://img.shields.io/badge/socket.io-000000?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-## Statistics
+
+
+##  Tools & OS
+
+![Linux](https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/vs_code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+
+##  Statistics
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=Leooozzz&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Leooozzz&layout=compact&theme=github_dark&hide_border=true" />
 </div>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
+</p>
