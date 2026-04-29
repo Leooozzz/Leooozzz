@@ -6,7 +6,7 @@
 
 ##  About me
 
-Atualmente estagiando como desenvolvedor full stack 
+Currently interning as a full-stack developer.
 
 ## Technologies
 
