@@ -32,7 +32,7 @@ Atualmente estagiando como desenvolvedor full stack
 
 ##  Tools & OS
 
-![Linux](https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Arch](https://img.shields.io/badge/archLinux-000000?style=for-the-badge&logo=archlinux&logoColor=white)
 ![VS Code](https://img.shields.io/badge/vs_code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
