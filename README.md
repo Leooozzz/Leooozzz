@@ -19,7 +19,7 @@ Currently interning as a full-stack developer.
 ![Drizzle](https://img.shields.io/badge/drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=white)
 ![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
-
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=Redis&logoColor=white)
 
 
 ##  Studying
