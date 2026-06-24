@@ -10,33 +10,22 @@ Currently interning as a full-stack developer.
 
 ## Technologies
 
-![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/docker--compose-000000?style=for-the-badge&logo=docker&logoColor=white)
-![Drizzle](https://img.shields.io/badge/drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=white)
-![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=Redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=Prisma&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-000000?style=for-the-badge&logo=redis&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,ts,react,vite,nextjs,express,nodejs,postgres,docker,prisma,redis,git,github,&theme=dark" />
+</p>
 
 ##  Studying
 
-![PHP](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
-![Socket.io](https://img.shields.io/badge/socket.io-000000?style=for-the-badge&logo=socketdotio&logoColor=white)
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" />
+</p>
 
 
 ##  Tools & OS
 
-![Arch](https://img.shields.io/badge/archLinux-000000?style=for-the-badge&logo=archlinux&logoColor=white)
-![VS Code](https://img.shields.io/badge/vs_code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arch,vscode&theme=dark" />
+</p>
 
 ##  Statistics
 
