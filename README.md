@@ -11,13 +11,13 @@ Currently interning as a full-stack developer.
 ## Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,ts,react,vite,nextjs,express,nodejs,postgres,docker,prisma,redis,git,github,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,ts,react,vite,nextjs,express,nodejs,postgres,docker,prisma,redis,git,github,wordpress,php&theme=dark" />
 </p>
 
 ##  Studying
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" />
 </p>
 
 
