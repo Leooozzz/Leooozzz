@@ -6,7 +6,7 @@
 
 ##  About me
 
-Currently interning as a full-stack developer.
+Currently, I work as a full-stack developer and study cybersecurity with the goal of becoming a red teamer.
 
 ## Technologies
 
